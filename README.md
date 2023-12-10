@@ -7,4 +7,6 @@ ID=2 bankanın özel müşterileri olduğu için yarı önceliklidir. Kuyruğun 
 ID=3 ise 65 yaş üstü olduğu için kuyruğun en başına geçer. 
 
 Kuyruğa kişi ekleme, kuyruktan kişiyi işleme alma ve kuyruğu görüntüleme menülerini yazınız.
+
+
 ![bankaKuyrukTerminal](https://github.com/azraoykulukan/bankaSirasi/assets/115402533/05cf7264-c45b-45e8-ab46-ca7d22a36e5f)
