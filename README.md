@@ -1,5 +1,5 @@
 # bankaSirasi
-Banka Kuyruk Sırası Ayarlama; kişi ekleme, kuyruktan işleme alma ve kuyruk sırasını görüntüleme menüsüne sahip C kodu
+Banka Kuyruk Sırası Ayarlama; kişi ekleme, kuyruktan işleme alma ve kuyruk sırasını görüntüleme menüsüne sahip C programı
 
 Öncelikler: Kuyruğa gelecek olan kişinin ID numarası istenir. 
 Eğer ID=1 ise sıradan müşteri normal bir şekilde kuyruğun sonuna eklenir.
